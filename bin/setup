@@ -1,0 +1,9 @@
+#! /usr/bin/env bash
+
+echo "Setting up repo template"
+
+pipenv install
+pipenv install --dev pre-commit
+
+pre-commit install -t pre-commit
+pre-commit install -t pre-push
