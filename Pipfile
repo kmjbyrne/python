@@ -12,6 +12,7 @@ black = "*"
 ruff = "*"
 mypy = "*"
 pytest = "*"
+commitizen = "*"
 
 [packages]
-commitizen = "*"
+
