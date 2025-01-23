@@ -1,0 +1,4 @@
+README.md merge=ours
+Dockerfile merge=ours
+Pipfile.lock merge=ours
+Pipfile merge=ours
