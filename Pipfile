@@ -14,3 +14,4 @@ mypy = "*"
 pytest = "*"
 
 [packages]
+commitizen = "*"
